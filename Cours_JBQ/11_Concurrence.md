@@ -81,8 +81,8 @@ Assurer l’**exclusion mutuelle**, c’est-à-dire garantir qu’une seule sect
 ### 4.1 Principe
 
 Un **mutex** (Mutual Exclusion Lock) est un mécanisme qui contrôle l’accès exclusif à une ressource.  
-Avant d’entrer en section critique, un processus doit **prendre le verrou** ; il doit le **libérer** à la sortie.
-
+Avant d’entrer en section critique, un processus doit **prendre le verrou** ; il doit le **libérer** à la sortie. Travaux menés par Edsger W. Dijkstra
+![[EWDwww.jpg]]
 ### 4.2 Opérations fondamentales
 
 - **P (prendre le verrou)** → blocage si le verrou est déjà pris.  

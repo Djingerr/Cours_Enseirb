@@ -43,17 +43,17 @@ ls -l /home/user
 
 ### 1.3 Commandes de base
 
-| Commande | Fonction |
-|-----------|-----------|
-| `pwd` | Affiche le répertoire courant |
-| `ls` | Liste les fichiers |
-| `cd` | Change de répertoire |
-| `mkdir` | Crée un dossier |
-| `rm` | Supprime un fichier |
-| `cp` | Copie un fichier |
-| `mv` | Déplace ou renomme un fichier |
-| `cat` | Affiche le contenu d’un fichier |
-| `man` | Ouvre le manuel d’une commande |
+| Commande | Fonction                        |
+| -------- | ------------------------------- |
+| `pwd`    | Affiche le répertoire courant   |
+| `ls`     | Liste les fichiers              |
+| `cd`     | Change de répertoire            |
+| `mkdir`  | Crée un dossier                 |
+| `rm`     | Supprime un fichier             |
+| `cp`     | Copie un fichier                |
+| `mv`     | Déplace ou renomme un fichier   |
+| `cat`    | Affiche le contenu d’un fichier |
+| `man`    | Ouvre le manuel d’une commande  |
 
 ---
 
