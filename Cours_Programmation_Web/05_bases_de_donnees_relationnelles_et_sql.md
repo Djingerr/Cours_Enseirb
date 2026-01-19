@@ -193,4 +193,4 @@ Le langage SQL est incontournable pour toute application web dynamique.
 
 ---
 
-[[04_php_programmation_web_cote_serveur]] | [[06 - JavaScript - Pages dynamiques côté client]]
+[[04_php_programmation_web_cote_serveur]] | [[06_java_script_pages_dynamiques_cote_client]]
