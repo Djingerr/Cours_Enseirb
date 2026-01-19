@@ -116,12 +116,12 @@ printf("Bonjour %s !", nom);
 
 ## 5. Fonctions de la bibliothèque `<string.h>`
 
-| Fonction | Description | Exemple |
-|-----------|--------------|----------|
-| `strlen(s)` | Longueur de la chaîne | `strlen("abc") == 3` |
-| `strcpy(dest, src)` | Copie une chaîne | `strcpy(b, a)` |
-| `strcat(dest, src)` | Concatène deux chaînes | `strcat(a, b)` |
-| `strcmp(a, b)` | Compare deux chaînes | `strcmp("a", "b") < 0` |
+| Fonction            | Description            | Exemple                |
+| ------------------- | ---------------------- | ---------------------- |
+| `strlen(s)`         | Longueur de la chaîne  | `strlen("abc") == 3`   |
+| `strcpy(dest, src)` | Copie une chaîne       | `strcpy(b, a)`         |
+| `strcat(dest, src)` | Concatène deux chaînes | `strcat(a, b)`         |
+| `strcmp(a, b)`      | Compare deux chaînes   | `strcmp("a", "b") < 0` |
 
 ### Exemple complet
 
