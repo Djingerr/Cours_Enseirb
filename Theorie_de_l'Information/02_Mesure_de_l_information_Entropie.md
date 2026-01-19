@@ -230,6 +230,74 @@ avec égalité **si et seulement si** $X$ suit une loi uniforme.
 ➡️ La loi uniforme est la loi **la plus incertaine** possible sur un ensemble fini.
 
 ---
+### Rappel : Inégalité de Jensen
+
+Soit $X$ une variable aléatoire intégrable et  
+$\varphi : I \to \mathbb{R}$ une fonction **convexe** sur un intervalle $I$
+contenant l’image de $X$.
+
+$$
+\varphi\!\big(\mathbb{E}[X]\big)
+\;\le\;
+\mathbb{E}\!\big[\varphi(X)\big].
+$$
+
+---
+
+### Forme discrète (pondérée)
+
+Soient $x_1,\dots,x_n \in I$ et $p_1,\dots,p_n \ge 0$ tels que
+$\sum_{i=1}^n p_i = 1$. Alors :
+
+$$
+\varphi\!\left(\sum_{i=1}^n p_i x_i\right)
+\;\le\;
+\sum_{i=1}^n p_i\,\varphi(x_i).
+$$
+
+---
+
+### Cas concave
+
+Si $\varphi$ est **concave**, l’inégalité est inversée :
+
+$$
+\varphi\!\big(\mathbb{E}[X]\big)
+\;\ge\;
+\mathbb{E}\!\big[\varphi(X)\big].
+$$
+
+---
+
+### Cas d’égalité (fonction convexe)
+
+On a égalité si :
+- $X$ est **presque sûrement constante**, ou
+- $\varphi$ est **affine** sur le support de $X$.
+
+---
+
+### Cas strictement convexe
+
+Si $\varphi$ est **strictement convexe**, alors :
+
+$$
+\varphi\!\big(\mathbb{E}[X]\big)
+=
+\mathbb{E}\!\big[\varphi(X)\big]
+\quad\Longleftrightarrow\quad
+X \text{ est constante p.s.}
+$$
+
+et si $X$ n’est pas constante p.s. :
+
+$$
+\varphi\!\big(\mathbb{E}[X]\big)
+\;<\;
+\mathbb{E}\!\big[\varphi(X)\big].
+$$
+
+---
 
 ## Synthèse du chapitre
 
