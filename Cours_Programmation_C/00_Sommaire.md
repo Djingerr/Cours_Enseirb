@@ -13,7 +13,7 @@
 7. [[07_Structures_Typedef_Enums]] — Structures, typedef et énumérations  
 8. [[08_Fichiers_IO]] — Fichiers et entrées/sorties  
 9. [[09_Compilation_Projets]] — Compilation et organisation de projets  
-10. [[10_Synthese_Glossaire]] — Synthèse finale et glossaire
+10. [[Theorie_de_l'Information/10_Synthese_glossaire]] — Synthèse finale et glossaire
 
 ---
 

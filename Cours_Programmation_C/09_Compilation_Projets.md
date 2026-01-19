@@ -232,4 +232,4 @@ gcc -Iinclude src/main.c src/calcul.c -o bin/prog
 
 ---
 
-[[08_Fichiers_IO]] ← → [[10_Synthese_Glossaire]]
+[[08_Fichiers_IO]] ← → [[Theorie_de_l'Information/10_Synthese_glossaire]]
