@@ -1,0 +1,2 @@
+First, the file is downloaded, and then opened by double-clicking it. Once the message informing the user to install the program appears, "ok" should be clicked.
+Program can be launched, once the installation is complete.

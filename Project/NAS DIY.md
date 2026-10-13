@@ -12,3 +12,5 @@ BUT :
 - VPN Perso
 - Minecraft Serveur
 - Klipper 3D printer
+- propre boutique reliée à Gelato
+- Bot crypto

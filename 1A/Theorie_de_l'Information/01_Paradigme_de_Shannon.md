@@ -131,5 +131,5 @@ $$
 ---
 
 ## Liens
-- ⏮️ Chapitre précédent : [[00_Introduction]]
+- ⏮️ Chapitre précédent : [[Theorie_de_l'Information/00_Introduction]]
 - ⏭️ Chapitre suivant : [[02_Mesure_de_l_information_Entropie]]
