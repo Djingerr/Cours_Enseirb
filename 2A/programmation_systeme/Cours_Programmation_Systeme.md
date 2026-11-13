@@ -13,6 +13,8 @@ tags:
 module: Programmation système (ETE7-IFON1)
 type: Cours
 source: Polycopié « Éléments de programmation système » — G. Mercier (2026-2027), parties 1 et 2
+share_link: https://share.note.sx/tic3rwiq#NS3JMxcc3ZWb4yA95V99dQ
+share_updated: 2026-10-13T16:39:07+02:00
 ---
 
 # Programmation Système — Cours complet
